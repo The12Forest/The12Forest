@@ -1,21 +1,55 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the12forest&label=Profile%20views&color=0e75b6&style=flat" alt="the12forest" /> </p>
+# Hi there, I'm Manuel Waldburger! 👋 🇨🇭
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the12forest" alt="the12forest" /></a> </p>
+I'm an **Apprentice in Application Development** (Informatiker EFZ) based in the Lucerne area. I have a strong passion for infrastructure, automation, and building reliable self-hosted ecosystems. Currently, I'm completing my **Berufsmaturität** at BM Luzern with plans to pursue university studies in the future.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🚀 What I'm into
+* 🏠 **Home Automation:** Deep into Home Assistant, ESP32-CAMs, and custom IoT integrations.
+* 🐳 **Infrastructure:** Advanced Docker orchestration (macvlan, custom networking) and virtualization with Proxmox.
+* 🐧 **Linux:** Comfortable across various distros, including Arch, NixOS, Ubuntu, and Debian.
+* 🌐 **Networking:** Managing setups with UniFi, WireGuard, and Cloudflare.
+* 🚁 **FPV Drones:** Building and flying (DJI, WTFOS, Blackbox logging).
+* 🤖 **AI:** Experimenting with Reinforcement Learning and local LLMs (Ollama, LiteLLM).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the12forest&show_icons=true&locale=en&layout=compact" alt="the12forest" /></p>
+### 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the12forest&show_icons=true&locale=en" alt="the12forest" /></p>
+| Category | Tools |
+| :--- | :--- |
+| **Programming** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?logo=github-actions&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **IoT & Tools** | ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?logo=home-assistant&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![NVIDIA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+![The12Forest's GitHub stats](https://github-readme-stats.vercel.app/api?username=The12Forest&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The12Forest&layout=compact&theme=radical)
+
+---
+
+### 🧠 Mindset
+> "I prefer practical, working solutions over pure theory. My goal is to build clean, secure, and minimal architectures that are meant to run reliably long-term, not just 'work once'."
+
+---
+
+### 🕹️ Beyond Coding
+When I'm not configuring Docker stacks or debugging code, you can find me:
+* Flying **FPV Drones** and analyzing Blackbox data.
+* Gaming (**TrackMania** or **Minecraft**).
+* Fine-tuning my **Hackintosh** (OpenCore).
+* Experimenting with **RAID 10** setups and backup strategies like **Restic**.
+
+---
+
+### 📫 Reach Me
+* **Location:** Lucerne, Switzerland 🏔️
+* **GitHub:** [The12Forest](https://github.com/The12Forest)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the12forest&" alt="the12forest" /></p>
 
